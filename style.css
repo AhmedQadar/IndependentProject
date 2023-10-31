@@ -1,0 +1,138 @@
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: black;
+}
+
+#search-button {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#search-button:hover {
+    background-color: #0056b3;
+}
+
+#show-form-button {
+    background-color: #28a745;
+    color: #fff;
+    margin-top: 10px;
+}
+
+#show-form-button:hover {
+    background-color: #1e7e34;
+}
+
+#recipe-form {
+    display: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.floating-label {
+    position: absolute;
+    pointer-events: none;
+    left: 10px;
+    top: 20px;
+    transition: 0.3s;
+    background-color: #fff;
+    padding: 0 5px;
+}
+
+.form-control:focus + .floating-label,
+.form-control:valid + .floating-label {
+    top: 5px;
+    font-size: 12px;
+    background-color: transparent;
+    left: 5px;
+    padding: 0;
+}
+
+.left-content {
+    float: left !important; 
+    width: 30% !important; 
+}
+
+.right-content {
+    float: left !important; 
+    width: 70% !important; 
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+    transform: scale(0.3);
+}
+
+.recipe-image {
+    max-width: 200px; /* Adjust as needed */
+    max-height: 200px; /* Adjust as needed */
+}
+
+.recipe-details {
+    flex: 1; /* This makes it take the remaining width */
+    padding: 10px;
+}
+
+.recipe-title {
+    font-size: 18px;
+    margin: 0;
+}
+
+.recipe-description {
+    font-size: 14px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.add-review {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.add-review:hover {
+    background-color: #0056b3;
+}
+
+.delete-review {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.delete-review:hover {
+    background-color: #bb2128;
+}
+
+.copyright-container {
+    text-align: center;
+}

@@ -1,0 +1,152 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Lemon Herb Roasted Chicken",
+      "image_url": "https://minimalistbaker.com/wp-content/uploads/2022/09/Lemon-Herb-Roasted-Chicken-Thighs-SQUARE.jpg",
+      "ingredients": [
+        "1 whole chicken",
+        "2 lemons",
+        "2 tablespoons olive oil",
+        "1 teaspoon rosemary",
+        "1 teaspoon thyme",
+        "Salt and pepper to taste"
+      ],
+      "instructions": "Preheat the oven to 375°F. Rub the chicken with olive oil, lemon juice, and season with rosemary, thyme, salt, and pepper. Roast for 1.5 to 2 hours, or until the chicken is cooked through.",
+      "reviews": [
+        "Absolutely delicious! The lemon and herbs add great flavor."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spicy Grilled Chicken Tacos",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xEj5oCFV8jW_MU1r_x5z2GN5N_pjf3nFKA&usqp=CAU",
+      "ingredients": [
+        "4 boneless chicken breasts",
+        "1/4 cup hot sauce",
+        "2 tablespoons olive oil",
+        "1 teaspoon cumin",
+        "1 teaspoon paprika",
+        "Tortillas and toppings of your choice"
+      ],
+      "instructions": "Marinate the chicken in a mixture of hot sauce, olive oil, cumin, and paprika for 30 minutes. Grill the chicken until cooked. Serve in tortillas with your favorite toppings.",
+      "reviews": [
+        "Spicy and delicious! A new family favorite."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Fudge Cake",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTVz9AL4og5LMZVtfWyiIyTdlEU311j1zlA&usqp=CAU",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup cocoa powder",
+        "1 1/2 cups sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 cup butter",
+        "2 eggs",
+        "1 cup buttermilk",
+        "1 teaspoon vanilla extract",
+        "1 cup hot water"
+      ],
+      "instructions": "Preheat the oven to 350°F. Mix dry ingredients. Add eggs, buttermilk, and vanilla. Stir in hot water. Bake for 30-35 minutes. Let cool and frost as desired.",
+      "reviews": [
+        "This cake is incredibly moist and chocolaty. Loved it!"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Carrot Cake with Cream Cheese Frosting",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMNRFi1LH9dky257S_m9BLVbEDwwY5M6yKBw&usqp=CAU",
+      "ingredients": [
+        "2 cups grated carrots",
+        "1 1/2 cups sugar",
+        "1/2 cup vegetable oil",
+        "3 eggs",
+        "2 cups all-purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1/2 teaspoon cinnamon",
+        "8 oz cream cheese",
+        "1/2 cup butter",
+        "4 cups powdered sugar",
+        "1 teaspoon vanilla extract"
+      ],
+      "instructions": "Mix carrots, sugar, oil, and eggs. Bake at 350°F for 25-30 minutes. For frosting, beat cream cheese, butter, powdered sugar, and vanilla. Frost the cooled cake.",
+      "reviews": [
+        "The carrot cake was moist and the cream cheese frosting was perfect!"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fresh Orange Juice",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzUIfKer06aiEfqpxHugrZOr6ZxBsGtkX9yw&usqp=CAU",
+      "ingredients": [
+        "4-6 large oranges"
+      ],
+      "instructions": "Peel the oranges and remove seeds. Put them in a juicer or blender and process until smooth. Serve immediately.",
+      "reviews": [
+        "You can't beat the freshness of homemade orange juice!"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Strawberry Banana Smoothie",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDn9XlCUpsRkHgC4bJKHCZeul-1STWKveqrg&usqp=CAU",
+      "ingredients": [
+        "1 cup strawberries",
+        "1 banana",
+        "1/2 cup yogurt",
+        "1/2 cup milk",
+        "1 tablespoon honey"
+      ],
+      "instructions": "Blend all ingredients until smooth. Add honey for sweetness if desired. Serve cold.",
+      "reviews": [
+        "A perfect blend of flavors. I make this every morning."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Classic Apple Pie",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2luoFMOi9MGGgN6JzWyuchooYAhLqqDr0A&usqp=CAU",
+      "ingredients": [
+        "6-7 apples, peeled, cored, and sliced",
+        "1 cup sugar",
+        "1 teaspoon cinnamon",
+        "1/2 teaspoon nutmeg",
+        "2 pie crusts"
+      ],
+      "instructions": "Mix apples, sugar, and spices. Fill one pie crust, cover with the second, and crimp the edges. Bake at 375°F for 45-50 minutes.",
+      "reviews": [
+        "This apple pie reminds me of my grandma's. It's perfect!"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Mousse",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeuOaxWVgNoopFyWqalSWAgST2UbAjXeG-Fw&usqp=CAU",
+      "ingredients": [
+        "8 oz semi-sweet chocolate",
+        "4 eggs",
+        "1/4 cup sugar",
+        "1/4 cup hot water",
+        "1/4 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1 cup heavy cream"
+      ],
+      "instructions": "Melt chocolate with hot water. Beat egg yolks and sugar, add chocolate mixture and vanilla. Whip egg whites with salt. Whip cream. Fold egg whites and whipped cream into chocolate mixture. Chill and serve.",
+      "reviews": [
+        "The chocolate mousse is incredibly rich and velvety. A must-try!"
+      ]
+    },
+    {
+      "name": "Burger & Fries",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5okG0tz2dWr36k2p9gxbFmqoM4AeW1e3pPQ&usqp=CAU",
+      "ingredients": "1 Burger , A bag of fries ",
+      "instructions": "Fry the cips , enjoy your meals ",
+      "reviews": "it is supposed to be good ",
+      "id": 9
+    }
+  ]
+}
